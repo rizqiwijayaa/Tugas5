@@ -1,8 +1,4 @@
-Berikut ini adalah versi **Markdown lengkap** dari penjelasan kode `PencarianDataMahasiswa.java` yang bisa kamu salin langsung ke file `README.md` di GitHub:
-
----
-
-## Penjelasan Kode `PencarianDataMahasiswa.java`
+## Studi Case 1 `PencarianDataMahasiswa.java`
 
 Kode ini merupakan program Java sederhana untuk mencari data mahasiswa berdasarkan NIM menggunakan pencarian linear.
 
