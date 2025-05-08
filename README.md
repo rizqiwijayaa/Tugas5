@@ -2,13 +2,13 @@ Berikut ini adalah versi **Markdown lengkap** dari penjelasan kode `PencarianDat
 
 ---
 
-## 📘 Penjelasan Kode `PencarianDataMahasiswa.java`
+## Penjelasan Kode `PencarianDataMahasiswa.java`
 
 Kode ini merupakan program Java sederhana untuk mencari data mahasiswa berdasarkan NIM menggunakan pencarian linear.
 
 ---
 
-### 📄 Struktur Kode
+### Struktur Kode
 
 ```java
 import java.util.Scanner;
@@ -151,7 +151,7 @@ Method `cariMahasiswaByNIM` melakukan pencarian linear terhadap array `daftarMah
 
 ---
 
-### 🔍 Fitur
+### Fitur
 
 * Menyimpan data mahasiswa menggunakan array objek.
 * Menerapkan pencarian linear berdasarkan NIM.
